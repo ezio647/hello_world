@@ -14,8 +14,8 @@ code goes here
 5. list
 6. 
 
-*Bullet item 1
-*Bullet item 2
-*Bullet item 3
+* Bullet item 1
+* Bullet item 2
+* Bullet item 3
 
 [World's most popular site](https://www.google.co.in)
