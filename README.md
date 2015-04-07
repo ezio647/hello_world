@@ -4,7 +4,7 @@ a hello world project
 Another paragraph
 
 ```sh
-code goes here
+code goes here #comments
 ```
 
 1. This
