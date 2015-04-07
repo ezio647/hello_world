@@ -3,9 +3,9 @@ a hello world project
 
 Another paragraph
 
-'''sh
+```sh
 code goes here
-'''
+```
 
 1. This
 2. is 
